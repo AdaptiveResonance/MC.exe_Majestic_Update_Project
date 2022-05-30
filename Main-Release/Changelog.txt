@@ -1,9 +1,10 @@
 Greetings Majesty!!
 Copy DATA folder into MC.exe main directory
-Replace any conents of MC.exe DATA folder with that of this Community Update
+Replace any contents of MC.exe DATA folder with that of this Community Update
 
-This update focuses on optimizing the AI to be MUCH more reliable and self sufficient.
-Initially the flee value was lower than a finishing hit. Resluting in the mechanic not working.
+This overhaul update focuses primarily on optimizing the AI to be MUCH more reliable and self sufficient.
+Initially on release, the flee value was lower than that of a finishing hit. 
+Resulting in the mechanic not working and AI running to there doom.
 Worry no more!!
 
 
