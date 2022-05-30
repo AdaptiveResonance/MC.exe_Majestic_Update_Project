@@ -1,0 +1,44 @@
+Greetings Majesty!!
+Copy DATA folder into MC.exe main directory
+Replace any conents of MC.exe DATA folder with that of this Community Update
+
+This update focuses on optimizing the AI to be MUCH more reliable and self sufficient.
+Initially the flee value was lower than a finishing hit. Resluting in the mechanic not working.
+Worry no more!!
+
+
+To do:
+More testing of specials
+Optimize objects
+Revamp financial system
+
+Some notable changes & updates:
++ Implemented passive HP regen 
++-Implemented Civil servant wages
++ Increase flee rate 0.5% (balanced with new HP values)
++ Ranger Completely Redifined
++ 10HP for all chars
++ Blade DMG rebalanced
++ Ranger visibility and Mage to lesser extent
++ Faster and longer range on missiles
++ Improved One Card Monty
++-Scarier Monster Chests
++5 Potential max HP for warrior
++5 Magic missile range
++2 Lightning velocity
+-5 MESMERIZE range
++5 Earthquake range
+-2 FREEZE velocity
++ More Disease
++50$ To max theft amount
++100HP Mule_Stable, Church
++10% SPD to all steeds
++10% Tower range
++ Cheaper Clerics & Smiths
++ Other tiny tweaks
+
+
+
+
+
+
