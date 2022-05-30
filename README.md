@@ -3,4 +3,5 @@ Community AI update project for the MC.exe program which was no longer officiall
 
 The community AI update Project is now run by myself.
 The update focuses on Optimizing the AI algorithm and other mathematical values.
-Language support packs for English, Russian, French will also be added.
+Check the main-release for personal installation
+Language support packs for English, Russian, French will also hopefully be added.
