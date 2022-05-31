@@ -4,7 +4,7 @@ Replace any contents of MC.exe DATA folder with that of this Community Update
 
 Community AI update project for the MC.exe program which was no longer officially supported. 
 This overhaul update focuses primarily on optimizing the AI and other 
-mathematical valuesto be MUCH more reliable and self sufficient.
+mathematical values to be MUCH more reliable and self sufficient.
 The community AI update Project is run by myself.
 https://www.moddb.com/mods/mcexe-majestic-update-project
 https://github.com/AdaptiveResonance/MC.exe_Project/
