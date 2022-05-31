@@ -13,31 +13,30 @@ More testing of specials
 Optimize objects
 Revamp financial system
 
-Some notable changes & updates:
-+ Implemented passive HP regen 
+Current notable changes & updates:
++ Implemented passive HP Regen 
 +-Implemented Civil servant wages
-+ Increase flee rate 0.5% (balanced with new HP values)
-+ Ranger Completely Redifined
++ Ranger Class Completely Redefined
 + 10HP for all chars
++ Increase flee rate 0.5% (balanced with new HP values)
 + Blade DMG rebalanced
 + Ranger visibility and Mage to lesser extent
 + Faster and longer range on missiles
 + Improved One Card Monty
 +-Scarier Monster Chests
-+5 Potential max HP for warrior
-+5 Magic missile range
-+2 Lightning velocity
--5 MESMERIZE range
-+5 Earthquake range
--2 FREEZE velocity
++ 5 Potential max HP for warrior
++ 5 Magic missile range
++ 2 Lightning velocity
+- 5 MESMERIZE range
++ 5 Earthquake range
+- 2 FREEZE velocity
 + More Disease
-+50$ To max theft amount
-+100HP Mule_Stable, Church
-+10% SPD to all steeds
-+10% Tower range
++ 50$ To max theft amount
++ 100HP Mule_Stable, Church
++ 10% SPD to all steeds
++ 10% Tower range
 + Cheaper Clerics & Smiths
-+ Other tiny tweaks
-
++ Other quality tweaks
 
 
 
