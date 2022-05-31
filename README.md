@@ -8,5 +8,3 @@ Check the main-release for personal installation.
 Language support packs for English, Russian and French will also hopefully be added.
 
 The community AI update Project is run by myself.
-https://www.moddb.com/mods/mcexe-majestic-update-project
-https://github.com/AdaptiveResonance/MC.exe_Project/
