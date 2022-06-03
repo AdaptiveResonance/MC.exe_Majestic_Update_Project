@@ -10,7 +10,7 @@ https://www.moddb.com/mods/mcexe-majestic-update-project
 https://github.com/AdaptiveResonance/MC.exe_Project/
 
 Initially on game release, the flee value was lower than that of a finishing hit. 
-Resulting in the flee mechanic not working and AI running to there doom, while Regen
+Resulting in the flee mechanic not working and AI running to their doom, while Regen
 Was never implemented for the player.
 Worry no more!!
 
