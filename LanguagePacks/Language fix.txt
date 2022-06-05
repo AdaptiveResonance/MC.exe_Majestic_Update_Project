@@ -2,7 +2,7 @@ Copy over Eng/Rus DATA folder into MC.exe source folder
 Run MCUpdater then community update after this
 We claim zero ownership over these language-pack files
 Packaged for MC.exe community update project
-https://github.com/AdaptiveResonance/MC.exe_Project/
+https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Projec
 https://www.moddb.com/mods/mcexe-majestic-update-project
 
 
