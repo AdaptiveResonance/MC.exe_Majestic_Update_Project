@@ -1,6 +1,8 @@
 Greetings Majesty!!
-Copy/Download DATA folder into MC.exe main directory
-Replace any contents of MC.exe DATA folder with that of this Community Update
+Install necessary language packs
+Run official updater
+Copy/Download DATA folder from community update into MC.exe main directory
+Replace any contents of MC.exe DATA folder with that of this community update
 
 Community AI update project for the MC.exe program which was no longer officially supported. 
 This overhaul update focuses primarily on optimizing the AI and other 
