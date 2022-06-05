@@ -1,0 +1,16 @@
+Copy over DATA into MC.exe source folder 
+
+
+
+DATA/UI/SHELL contains menus: main, optionsmenu, credits, playselect, Loadgame,Loadprogress.
+Data/UI/*.ENG files for English object text
+Data/UI/*.RUS files for Russian object text
+DATA/OBJECTS/HUNTINGREGION contains on map language graphics
+
+Data/UI/INGAMEGUI contains gui: AREYOUSURE, BANKRUPCY, BANNERHISTORYMENU, BUILDINGLIST, BUILDMENU(BUILDDIALOG ONLY), BUILDINGSTATS(STATSFILE-ONLY), CHARACTERLIST, COMMENTSPOPUP, DEMONBOOK, FINANCEMENU,GAMESTAGEMENU, GRAPHSMENU, HIREADVENTURER, OBJECTIVES, SAVEDIALOG, TREASUREBOX, TUTORIAL
+				BUILDINGCOSTS, HIREMENU, Are these two required?
+Data/Sounds/Other 		Contains opening scene audio Done!
+Data/Sounds/Peeps 		Character sounds: Done!
+Data/Sounds/Music 		Not Needed. Unless there is vocal music?
+Data/Sounds/General		Campaign sounds: Done! 1.wav from level_1	4.wav&7.wav from level_2
+Data/Sounds/buildings	Structure Sounds: Done!
