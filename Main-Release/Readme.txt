@@ -1,27 +1,21 @@
 Greetings Majesty!!
-Install necessary language packs
-Run official MCupdater
-Copy/Download DATA folder from community update into MC.exe main directory
-Replace any contents of MC.exe DATA folder with that of this community update
 
 Community AI update project for the MC.exe program which was no longer officially supported. 
 This overhaul update focuses primarily on optimizing the AI and other 
 mathematical values to be MUCH more reliable and self sufficient.
 The community AI update Project is run by myself.
-https://www.moddb.com/mods/mcexe-majestic-update-project
 https://github.com/AdaptiveResonance/MC.exe_Project/
+https://www.moddb.com/mods/mcexe-majestic-update-project
+
+Install necessary language packs
+Run official MCUpdater
+Copy/Download DATA folder from community update into MC.exe main directory
+Replace any contents of MC.exe DATA folder with that of this community update
 
 Initially on game release, the flee value was lower than that of a finishing hit. 
 Resulting in the flee mechanic not working and AI running to there doom, while Regen
 Was never implemented for the player.
 Worry no more!!
-
-To do:
-Add English & Russian Language Packs: Done!
-Optimize objects
-Revamp financial system
-More testing of specials
-
 
 Changelog:
 + Implemented passive HP Regen 
@@ -53,7 +47,9 @@ Changelog:
 + Added Hard Mode (seperate file): Much harder but at increased HP gains/lvl and 10% more hide value (Not Yet Recommended)
 + Other quality tweaks
 
-
-
-
+To do:
+Add English & Russian Language Packs: Done!
+Optimize objects
+Revamp financial system
+More testing of specials
 
