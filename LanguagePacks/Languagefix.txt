@@ -1,6 +1,6 @@
-Copy over DATA into MC.exe source folder 
-
-
+Copy over Eng/Rus DATA folder into MC.exe source folder
+We claim zero ownership over these languagepack files
+Packaged for MC.exe update project
 
 DATA/UI/SHELL contains menus: main, optionsmenu, credits, playselect, Loadgame,Loadprogress.
 Data/UI/*.ENG files for English object text
