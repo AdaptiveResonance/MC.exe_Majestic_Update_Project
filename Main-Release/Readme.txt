@@ -4,7 +4,7 @@ Community AI update project for the MC.exe program which was no longer officiall
 This overhaul update focuses primarily on optimizing the AI and other 
 mathematical values to be MUCH more reliable and self sufficient.
 The community AI update Project is run by myself.
-https://github.com/AdaptiveResonance/MC.exe_Project/
+https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Projec
 https://www.moddb.com/mods/mcexe-majestic-update-project
 
 Install necessary language packs
