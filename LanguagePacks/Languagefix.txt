@@ -1,6 +1,7 @@
 Copy over Eng/Rus DATA folder into MC.exe source folder
+Run updater and community update after this
 We claim zero ownership over these languagepack files
-Packaged for MC.exe update project
+Packaged for MC.exe community update project
 
 DATA/UI/SHELL contains menus: main, optionsmenu, credits, playselect, Loadgame,Loadprogress.
 Data/UI/*.ENG files for English object text
