@@ -44,7 +44,6 @@ Changelog:
 + spelling corrections
 + Weaker Skully Mages
 + Cheaper Clerics & Smiths
-+ Added Hard Mode (seperate file): Much harder but at increased HP gains/lvl and 10% more hide value (Not Yet Recommended)
 + Other quality tweaks
 
 To do:
