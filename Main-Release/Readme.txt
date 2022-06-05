@@ -4,7 +4,7 @@ Community AI update project for the MC.exe program which was no longer officiall
 This overhaul update focuses primarily on optimizing the AI and other 
 mathematical values to be MUCH more reliable and self sufficient.
 The community AI update Project is run by myself.
-https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Projec
+https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Project
 https://www.moddb.com/mods/mcexe-majestic-update-project
 
 Install necessary language packs
@@ -23,7 +23,7 @@ Changelog:
 + Ranger Class Completely Redefined
 + Added English and Russian language packs (Seperate file)
 + 10HP for all chars
-+ Increase flee rate 0.5% (balanced with new HP values)
++ Increase flee rate 5% (balanced with new HP values)
 + Blade DMG rebalanced
 + Ranger visibility and Mage to lesser extent
 + Faster and longer range on missiles
