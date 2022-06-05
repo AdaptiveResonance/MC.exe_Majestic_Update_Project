@@ -1,6 +1,6 @@
 Greetings Majesty!!
 Install necessary language packs
-Run official updater
+Run official MCupdater
 Copy/Download DATA folder from community update into MC.exe main directory
 Replace any contents of MC.exe DATA folder with that of this community update
 
