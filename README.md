@@ -7,4 +7,4 @@ mathematical values to be MUCH more reliable and self sufficient.
 Check the main-release for personal installation.
 Language support packs for English, Russian and French will also hopefully be added.
 
-The community AI update Project is run by myself.
+The community AI update Project is run by myself. 
