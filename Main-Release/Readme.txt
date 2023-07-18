@@ -1,6 +1,6 @@
 Greetings Majesty!!
 
-Community AI update project for the MC.exe program which was no longer officially supported. 
+Community AI update project for the MC.exe program which was no longer officially supported as abandonware. 
 This overhaul update focuses primarily on optimizing the AI and other 
 mathematical values to be MUCH more reliable and self-sufficient.
 The community AI update Project is run by myself.
@@ -18,10 +18,10 @@ Was never implemented for the player.
 Worry no more!!
 
 Changelog:
-+ Implemented passive HP Regen 
++ Implemented passive HP Regen System
 +-Implemented Civil servant wages
 + Ranger Class Completely Redefined
-+ Added English and Russian language packs (Separate file)
++ Added English and Russian language packs (Separate file) (Polish TBA)
 + 10HP for all chars
 + Increase flee rate by 5% (balanced with new HP values)
 + Blade DMG rebalanced
