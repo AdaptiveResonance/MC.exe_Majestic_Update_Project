@@ -1,31 +1,31 @@
 Greetings Majesty!!
 
-Community AI update project for the MC.exe program which was no longer officially supported. 
+Community AI update project for the MC.exe program which was no longer officially supported as abandonware. 
 This overhaul update focuses primarily on optimizing the AI and other 
-mathematical values to be MUCH more reliable and self sufficient.
+mathematical values to be MUCH more reliable and self-sufficient.
 The community AI update Project is run by myself.
 https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Project
 https://www.moddb.com/mods/mcexe-majestic-update-project
 
+Run official MCUpdater as admin
 Install necessary language packs
-Run official MCUpdater
-Copy/Download DATA folder from community update into MC.exe main directory
-Replace any contents of MC.exe DATA folder with that of this community update
+Copy/Download the DATA folder from the community update into MC.exe main directory (ex. C:\Program Files (x86)\Medieval Conquest\DATA)
+Replace any contents of the MC.exe DATA folder with that of this community update
 
-Initially on game release, the flee value was lower than that of a finishing hit. 
-Resulting in the flee mechanic not working and AI running to there doom, while Regen
+Initially, on release, the flee value was lower than that of a finishing hit. 
+Resulting in the flee mechanic not working and AI running to their doom, while Regen
 Was never implemented for the player.
 Worry no more!!
 
 Changelog:
-+ Implemented passive HP Regen 
++ Implemented passive HP Regen System
 +-Implemented Civil servant wages
 + Ranger Class Completely Redefined
-+ Added English and Russian language packs (Seperate file)
++ Added English and Russian language packs (Separate file) (Polish TBA)
 + 10HP for all chars
-+ Increase flee rate 5% (balanced with new HP values)
++ Increase flee rate by 5% (balanced with new HP values)
 + Blade DMG rebalanced
-+ Ranger visibility and Mage to lesser extent
++ Ranger visibility and Mage to a lesser extent
 + Faster and longer range on missiles
 + Smoothed out the unit cost equation to be less exponential
 + Improved One Card Monty
@@ -44,11 +44,14 @@ Changelog:
 + spelling corrections
 + Weaker Skully Mages
 + Cheaper Clerics & Smiths
++ Scalps rebalanced
++ rebalanced $$$ mileage
 + Other quality tweaks
+
 
 To do:
 Add English & Russian Language Packs: Done!
+Add the Polish language
 Optimize objects
-Revamp financial system
 More testing of specials
-
+add new pics, cheats, and controls
