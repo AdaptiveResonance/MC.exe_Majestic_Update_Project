@@ -7,7 +7,7 @@ The community AI update Project is run by myself.
 https://github.com/AdaptiveResonance/MC.exe_Majestic_Update_Project
 https://www.moddb.com/mods/mcexe-majestic-update-project
 
-Run official MCUpdater
+Run official MCUpdater as admin
 Install necessary language packs
 Copy/Download the DATA folder from the community update into MC.exe main directory (ex. C:\Program Files (x86)\Medieval Conquest\DATA)
 Replace any contents of the MC.exe DATA folder with that of this community update
@@ -44,15 +44,14 @@ Changelog:
 + spelling corrections
 + Weaker Skully Mages
 + Cheaper Clerics & Smiths
++ Scalps rebalanced
++ rebalanced $$$ mileage
 + Other quality tweaks
+
 
 To do:
 Add English & Russian Language Packs: Done!
-Add Polish
+Add the Polish language
 Optimize objects
-Revamp the financial system + diversify the hides
 More testing of specials
-nerf the trolls? (L3)
-boost scalp of trogs (L3)
-add note to run updater as admin
 add new pics, cheats, and controls

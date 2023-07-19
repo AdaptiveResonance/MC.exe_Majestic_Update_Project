@@ -1,0 +1,26 @@
+Space = Pause/Close Book Tab
+Escape = Open Exit Menu
+1-6 = Select saved grouping
+Control = Add/Remove from grouping
+Shift = Add mouse selction to current selection
+H = Go to home
+B = Banner history manu
+M = Full cartography view
+Z = set to speed 1x acceleration
+X = set to speed 3x acceleration
+C = set to speed 9x acceleration
+WASD = Scroll view panel
+Numpad+ = Increase zoom level
+Numpad- = Reduce zoom level
+
+type iamacheater then use the following commands:
+Effect 	Effect
+SHIFT+CTRL+ - (dash) 	Decreases Brightness
+SHIFT+CTRL+ M 	Gives Monsters
+SHIFT+CTRL+ N 	Gives Units
+SHIFT+CTRL+ + (plus) 	Increases Brightness
+SHIFT+CTRL+ W 	Level Skip
+CTRL+ALT 	Level Skip
+CTRL+V 	Skip To Last Level
+
+Enjoy!!
