@@ -47,11 +47,11 @@ Changelog:
 + Scalps rebalanced
 + rebalanced $$$ mileage
 + Other quality tweaks
++ Added English & Russian Language Packs
++ Added control and cheatsheet text document
 
 
 To do:
-Add English & Russian Language Packs: Done!
 Add the Polish language
 Optimize objects
 More testing of specials
-add new pics, cheats, and controls
